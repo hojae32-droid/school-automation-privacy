@@ -1,0 +1,1 @@
+# school-automation-privacy
